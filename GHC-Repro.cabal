@@ -7,7 +7,7 @@ cabal-version:       >=1.10
 
 library
   hs-source-dirs:      src
-  exposed-modules:     Tests.PrismLink
+  exposed-modules:     Tests.Link
                        Tests.Good
                      
   build-depends:       base >= 4.7

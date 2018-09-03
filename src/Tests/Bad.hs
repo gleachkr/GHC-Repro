@@ -1,6 +1,5 @@
-{-# LANGUAGE TypeOperators #-}
 module Tests.Bad where
 
-import Tests.PrismLink
+import Tests.Link
 
-test = pflag :: Flag Bool ((A :|: A) B) (A B)
+test = flag :: Flag ((),()) ()

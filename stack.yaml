@@ -3,4 +3,4 @@ extra-package-dbs: []
 
 packages:
 
-resolver: lts-7.24
+resolver: lts-11.15
